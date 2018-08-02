@@ -1,0 +1,55 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.11.3" last-modified="1528843220000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.7.0/bin/node" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://jira.drp.com">
+      <option name="apiType" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfe2dfcbdfdadfdadfd3dfe2dfc3dfdadfdadfc5df9bdf92</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>aniyogakiza</username>
+    </JIRA>
+    <JIRA shared="true" url="https://jira.drp.digital">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfe2dfcbdfdadfdadfd3dfe2dfc3dfdadfdadfc5df9bdf92</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.10.1" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>aniyogakiza</username>
+    </JIRA>
+    <JIRA shared="false" url="https://jira.drpo">
+      <option name="apiType" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username />
+    </JIRA>
+  </component>
+</application>
