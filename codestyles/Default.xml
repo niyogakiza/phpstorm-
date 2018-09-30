@@ -2,9 +2,14 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
 </code_scheme>
