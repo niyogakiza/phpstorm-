@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".eslint" type="ESLint" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="reduxTheory" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
